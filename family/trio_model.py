@@ -3,7 +3,6 @@ import math
 
 import numpy as np
 
-import pdf
 import utilities as ut
 
 def trio_prob(reads,
